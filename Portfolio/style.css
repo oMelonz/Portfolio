@@ -140,6 +140,14 @@ header.sticky ul li a
     font-size: 24px;
     margin-bottom: 10px;
 }
+.w50
+{
+    min-width: 50%;
+}
+img
+{
+    max-width: 100%;
+}
 .services
 {
     background: #111;
@@ -192,7 +200,7 @@ header.sticky ul li a
 }
 .work .content .workBx img
 {
-    max-width: 100%;
+    max-width: 10%;
 }
 .testimonial
 {
